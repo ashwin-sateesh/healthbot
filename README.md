@@ -16,3 +16,7 @@ a structured input-output framework. This framework is then employed for fine-tu
 resulting responses undergo validation and feedback from a reward model (Cosine similarity as a reward function) through reinforcement
 learning, ensuring that the model evolves to provide valid and meaningful responses. This intricate
 interplay between intent classification, entity recognition, prompt engineering, fine-tuning, and reinforcement learning contributes to the robustness and effectiveness of the conversational system.
+
+### Simplified Architecture:
+
+![Architecture-ASPR](https://github.com/Naveen-Nanda/Policy_Recommendation/assets/29003849/06fdde8d-ff75-4244-9913-7d96fc060c91)
