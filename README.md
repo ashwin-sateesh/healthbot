@@ -19,4 +19,4 @@ interplay between intent classification, entity recognition, prompt engineering,
 
 ### Simplified Architecture:
 
-![Architecture-ASPR](https://github.com/Naveen-Nanda/Policy_Recommendation/assets/29003849/06fdde8d-ff75-4244-9913-7d96fc060c91)
+![Healthbot-Architecture](https://github.com/ashwin-sateesh/healthbot/blob/main/assets/healthbot%20architecture.png)
